@@ -1,0 +1,59 @@
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 15px;
+  }
+  header h1.sub {
+    font-size: 15px;
+  }
+  header img {
+    width: 80px;
+    margin-top: 20px;
+  }
+  header.head {
+    padding: 8px 15px 16px 15px;
+  }
+  p.title {
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: center;
+    padding: 7px 0;
+  }
+  .table_wrapper {
+    padding: 0 15px;
+  }
+  .languages th {
+    font-size: 13px;
+  }
+  table {
+    font-size: 12px;
+  }
+  .experience > p.title {
+    max-width: 100%;
+    margin: 15px 0;
+  }
+  table th {
+    font-size: 16px;
+    font-weight: bold;
+    color: #0e75bb;
+  }
+  .summary p.title {
+    max-width: 100%;
+  }
+  .summary ul {
+    font-size: 14px;
+    padding-left: 35px;
+    padding-right: 15px;
+  }
+  .technologies {
+    padding: 0 15px;
+    font-size: 15px;
+    padding-bottom: 50px;
+  }
+  p.sub_title {
+    margin: 20px 0;
+    font-size: 19px;
+  }
+  footer.footer {
+    padding: 15px;
+  }
+}
